@@ -1,12 +1,10 @@
-## MY FISRT MODERATION BOT MADE USING DISCORD.JS 
-## Made by tag:- cw Khan#6496
-Id- 682981714523586606
+
+## Made by tag:- 𝔸𝕊ℍ𝕀𝕄#1234
 ## Categories 📑
 
 
 - [x] music soon .
 - [x] moderation
-- [x] NSFW 
 - [x] Info
 - [x] giveway
 - [x] fun
@@ -17,9 +15,9 @@ IF YOU WANT ADD MORE COOMNDS JOIN SUPPORT SERVER 😁
 
 **[SUPPORT SERVER](https://dsc.gg/kmdevs)**||
 
-**[INVITE BOT](https://discord.com/api/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot)**
+**[INVITE BOT](https://discord.com/oauth2/authorize?client_id=777425015725359105&permissions=70282305&scope=bot)**
 ### Support Discord Servers
-<a href="https://discord.gg/gQaptwMnyz"><img src="http://invidget.switchblade.xyz/gQaptwMnyz"/></a>
+<a href="https://discord.gg/3z6RSywUgg"><img src="http://invidget.switchblade.xyz/gQaptwMnyz"/></a>
 
 <br><br>
 </div>
