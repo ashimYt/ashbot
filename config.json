@@ -1,0 +1,8 @@
+{
+  "prefix": "q",
+  "default_prefix": "q",
+     
+ "YOUTUBE_API_KEY": "",
+    "QUEUE_LIMIT": 0,
+    "COLOR": "00FFFF"
+}
